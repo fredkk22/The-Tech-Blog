@@ -1,5 +1,12 @@
-header, .project:not(:last-child) {
-  border-bottom: 1px solid #ccc;
+header, .border {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.dollar-amount {
+  color: #056605;
+  font-weight: bold;
+  margin-left: -5px;
 }
 
 .no-button {
@@ -7,18 +14,22 @@ header, .project:not(:last-child) {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
   text-decoration: none;
   font-size: 100%;
 }
 
-.no-button:hover {
-  color: #065b83;
-  text-decoration: underline;
+.all-header-text {
+  text-decoration: none;
+  color: brown;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
+.all-header-text:hover {
+  text-decoration: none;
+  color: green;
+  transition-duration: 0.75s;
+}
+
+.navbarbtns {
+  font-weight: 500;
+  font-size: 1.25rem;
 }
