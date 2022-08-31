@@ -17,11 +17,11 @@ I was unable to fully complete this project, in terms of adding functionality wi
 
 ## Screenshots
 
-![Screenshot-1](../images/Home%20Page.PNG)
+![Screenshot-1](./images/Home%20Page.PNG)
 
-![Screenshot-2](../images/Login%20and%20Signup%20Page.PNG)
+![Screenshot-2](./images/Login%20and%20Signup%20Page.PNG)
 
-![Screenshot-2](../images/Add%20Post.PNG)
+![Screenshot-2](./images/Add%20Post.PNG)
 
 ## Credits
 
