@@ -2,7 +2,7 @@
 
 ## Table of Contents
   - [Description](#description)
-  - [Video Recording](#video-recording)
+  - [Screenshots](#screenshots)
   - [Credits](#credits)
     - [Contributors](#contributors)
     - [References](#links-used-for-reference)
@@ -13,24 +13,36 @@ This Module 14 Challenge was to create an application that would allow a user to
 
 The reason for creating this challenge was to learn more about express, handlebars, using the sequelize package, and using models with handlebars and express.
 
-I was unable to fully complete this project and was having a very difficult time deploying my .
+I was unable to fully complete this project, in terms of adding functionality with the comments. However, I was able to get the rest of it completed, which I still consider a small success.
 
-## Screenshot
+## Screenshots
+
+![Screenshot-1](../images/Home%20Page.PNG)
+
+![Screenshot-2](../images/Login%20and%20Signup%20Page.PNG)
+
+![Screenshot-2](../images/Add%20Post.PNG)
 
 ## Credits
 
-### Contributors
+## Credits
 
-Sean Dillon: https://github.com/DeviousDoge
+### Special Thanks to:
 
-Luke Rozon: https://github.com/Zym0tic
+Sean Dillon https://github.com/DeviousDoge/
 
-Joshua Rae: https://github.com/joshuar2155
+Fred Kamm
 
-Tabitha Spencer-Salmon: https://github.com/TabithaLy
+Voravich
+
+Juliet Lamond https://github.com/jlamond37
 
 ### Links Used for Reference:
 
-https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/
+https://stackoverflow.com/questions/34363623/center-search-bar-with-css
 
-https://sequelize.org/v3/docs/associations/#foreign-keys_1
+https://stackoverflow.com/questions/46021463/heroku-giving-500-error-with-little-information-internal-server-error
+
+## Link to Deployed Application
+
+https://afternoon-fortress-24190.herokuapp.com/
