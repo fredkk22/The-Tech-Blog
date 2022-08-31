@@ -3,12 +3,6 @@ header, .border {
   border-radius: 5px;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
-}
-
 .no-button {
   background: none;
   border: none;
